@@ -1,0 +1,10 @@
+{
+    "Boro18": ["Name", "SimbadName", "_RA", "_DE", "Smean", "Smed", "logRpHK"],
+    "Henry96": ["HD", "S_CTIO_", "S_MW_", "logR__HK_", "_RA", "_DE"],
+    "White07": ["HD", "Simbad", "RAJ2000", "DEJ2000", "EWHa", "u_vsini", "vsini", "S", "u_S", "RHK", "u_RHK"],
+    "Adibekyan12": ["Star", "Teff", "logg", "Vtur", "SimbadName", "_RA", "_DE"],
+    "Rice2020": ["Name", "Teff", "logg", "vsini", "SimbadName", "_RA", "_DE"],
+    "Holmberg2007": ["Name","RAJ2000","DEJ2000","logTe","vsini","Simbad"],
+    "Brewer2016": ["Name", "Teff", "logg", "S", "logRhk", "Vbr", "Vsini", "Vmac", "Vrad", "SNR", "Simbad","RAJ2000","DEJ2000"],
+    "Cincunegui2007": ["Name", "__S_", "__FHK_", "__FHa_", "Simbad", "_RA", "_DE"]
+}
